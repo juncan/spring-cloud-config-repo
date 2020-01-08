@@ -2,7 +2,7 @@ spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     username: root
-    password: root
+    password: fang@99|jun>can##
     url: jdbc:mysql://39.108.162.157:3306/springcloud_sell?characterEncoding=utf-8&useSSL=false
   rabbitmq:
     addresses: 192.168.209.20
